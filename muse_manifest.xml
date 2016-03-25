@@ -1,0 +1,46 @@
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="Taylor&amp;Michael_Montiontostill.com" resolutions="1x" timestamp="1458932113129">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="master_a-__.css" crc="47365262" ref="f:d:a:index:r:i:n:b"/>
+    <file name="f.css" crc="4167401152" ref="f"/>
+    <file name="d.css" crc="4072931531" ref="d"/>
+    <file name="a.css" crc="337024248" ref="a"/>
+    <file name="index.css" crc="355631088" ref="index"/>
+    <file name="r.css" crc="3844196427" ref="r"/>
+    <file name="i.css" crc="4075495756" ref="i"/>
+    <file name="n.css" crc="3874479676" ref="n"/>
+    <file name="b.css" crc="485986314" ref="b"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:b:a:n:d:f:i:r"/>
+    <file name="museutils.js" crc="531812214" ref="index:b:a:n:d:f:i:r"/>
+    <file name="whatinput.js" crc="84559013" ref="index:b:a:n:d:f:i:r"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="120190942" ref="index:b:a:n:d:f:i:r"/>
+    <file name="jquery.watch.js" crc="3866665977" ref="index:b:a:n:d:f:i:r"/>
+  </folder>
+  <folder name="images">
+    <file name="b_031816.gif" crc="3765279866" seo="true" ref="index:b:a:n:d:f:i:r"/>
+    <file name="a_031816_1.gif" crc="3873272657" seo="true" ref="index:b:a:n:d:f:i:r"/>
+    <file name="n_032516.gif" crc="3935130403" seo="true" ref="index:b:a:n:d:f:i:r"/>
+    <file name="d_031816.gif" crc="4031941188" seo="true" ref="index:b:a:n:d:f:i:r"/>
+    <file name="f_031816.gif" crc="199544164" seo="true" ref="index:b:a:n:d:f:i:r"/>
+    <file name="i_031816.gif" crc="4243094205" seo="true" ref="index:b:a:n:d:f:i:r"/>
+    <file name="r_032516.gif" crc="214942860" ref="index:b:a:n:d:f:i:r"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="letter_b.gif" crc="4283508560" seo="true" ref="index:b"/>
+    <file name="letter_a.gif" crc="4293296514" seo="true" ref="index:a"/>
+    <file name="letter_n.gif" crc="375666238" seo="true" ref="index:n"/>
+    <file name="letter_d.gif" crc="48791074" seo="true" ref="index:d"/>
+    <file name="letter_f.gif" crc="3976582730" seo="true" ref="index:f"/>
+    <file name="letter_i.gif" crc="4098728168" seo="true" ref="index:i"/>
+    <file name="letter_r.gif" crc="53322788" seo="true" ref="index:r"/>
+  </folder>
+  <file name="index.html" crc="4064263176" seo="true" mt="1458931996908" redirect="true"/>
+  <file name="b.html" crc="4154885021" seo="true" mt="1458931996908" redirect="true"/>
+  <file name="a.html" crc="339167230" seo="true" mt="1458931996908" redirect="true"/>
+  <file name="n.html" crc="417452119" seo="true" mt="1458931996908" redirect="true"/>
+  <file name="d.html" crc="473171146" seo="true" mt="1458931996908" redirect="true"/>
+  <file name="f.html" crc="4094861935" seo="true" mt="1458931996908" redirect="true"/>
+  <file name="i.html" crc="74505362" seo="true" mt="1458931996908" redirect="true"/>
+  <file name="r.html" crc="192225279" seo="true" mt="1458931996908" redirect="true"/>
+</manifest>
